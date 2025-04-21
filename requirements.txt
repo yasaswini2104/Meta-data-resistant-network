@@ -1,0 +1,6 @@
+aiocoap==0.4b3         # CoAP implementation in Python
+pycryptodome           # For DTLS-like encryption or crypto primitives
+pysocks                # Required for Tor proxying
+stem                   # Control Tor from Python (optional but helpful)
+python-dotenv          # For loading environment variables from .env
+pytest                 # For running your test files
